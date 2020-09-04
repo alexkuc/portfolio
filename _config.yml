@@ -17,6 +17,10 @@ aux_links:
     - "https://github.com/alexkuc/"
   "LinkedIn":
     - "https://www.linkedin.com/in/alexkuc/"
+  "AngelCo":
+    - "https://angel.co/u/alexkuc/"
+  "Upwork":
+    - "https://www.upwork.com/freelancers/~01948e7d9c3eb9505a/"
 
 compress_html:
   clippings: all
