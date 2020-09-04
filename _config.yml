@@ -10,8 +10,7 @@ footer_content: Alexander Kucheryuk Portfolio
 remote_theme: pmarsceill/just-the-docs
 color_scheme: nil
 
-search_enabled: true
-search_tokenizer_separator: /[\s/]+/
+search_enabled: false
 
 aux_links:
   "LinkedIn":
