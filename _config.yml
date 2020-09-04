@@ -13,6 +13,8 @@ color_scheme: nil
 search_enabled: false
 
 aux_links:
+  "GitHub":
+    - "https://github.com/alexkuc/"
   "LinkedIn":
     - "https://www.linkedin.com/in/alexkuc/"
 
@@ -25,4 +27,3 @@ compress_html:
   profile: false
 
 ga_tracking: UA-157973764-1
-
