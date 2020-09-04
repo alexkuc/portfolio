@@ -15,7 +15,7 @@ search_tokenizer_separator: /[\s/]+/
 
 aux_links:
   "LinkedIn":
-    - "https://www.linkedin.com/in/alexander-kucheryuk-922aa6122/"
+    - "https://www.linkedin.com/in/alexkuc/"
 
 compress_html:
   clippings: all
