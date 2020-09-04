@@ -1,2 +1,29 @@
+title: Portfolio
+description: Alexander Kucheryuk Portfolio
+baseurl: "/portfolio-new"
+url: "https://alexkuc.github.io"
+permalink: pretty
+
+heading_anchors: true
+footer_content: Alexander Kucheryuk Portfolio
+
 remote_theme: pmarsceill/just-the-docs
+color_scheme: nil
+
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+aux_links:
+  "LinkedIn":
+    - "https://www.linkedin.com/in/alexander-kucheryuk-922aa6122/"
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+ga_tracking: UA-157973764-1
 
