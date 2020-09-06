@@ -29,7 +29,7 @@ interviews and assess test assignments)
 
 # Stirling Public Speaking Society
 
-- hold roles of treasurer (3rd academic year) and vice-president (4th academic year)
+- hold roles of vice-president and treasurer (separate academic years)
 - responsible for budgeting extracurricular events
 - create formal structure for weekly sessions and allocate (delegate) other committee
 members to their respective roles
