@@ -11,19 +11,16 @@
 
 - prototype web application to apply for Covid-19 grant
 - application was accepted and got through the first filtering stage
-- prototype consists of UI mockups and semi-completed interactive demo using Zurb
-Foundation framework and webpack
+- prototype consists of UI mockups and semi-completed interactive demo using Zurb Foundation framework and webpack
 
 # IT Team Leader
 
 - plan and coordinate work of the entire IT department (four direct subordinates)
 - budget the department using man-hours and cost codes
 - conduct quarterly performance reviews using self-implemented KPIs
-- use agile methodology for software projects (user stories with story points, kanban board,
-CI, unit tests)
+- use agile methodology for software projects (user stories with story points, kanban board, CI, unit tests)
 - undertake disciplinary procedures in conjunction with HR department
-- participate in recruitment process (draft up job descriptions & test assignments, conduct
-interviews and assess test assignments)
+- participate in recruitment process (draft up job descriptions & test assignments, conduct interviews and assess test assignments)
 - conflict resolution among colleagues and other department’s staff
 - create comprehensive infrastructure documentation from scratch of 5 geo-remote offices
 
@@ -31,10 +28,8 @@ interviews and assess test assignments)
 
 - hold roles of vice-president and treasurer (different academic years)
 - responsible for budgeting extracurricular events
-- create formal structure for weekly sessions and allocate (delegate) other committee
-members to their respective roles
-- hold monthly committee meetings to reflect upon performance and provide feedback for
-future sessions
+- create formal structure for weekly sessions and allocate (delegate) other committee members to their respective roles
+- hold monthly committee meetings to reflect upon performance and provide feedback for future sessions
 
 # Group Leader (#2)
 
@@ -47,8 +42,7 @@ future sessions
 # University of Stirling
 
 - write dissertation titled “Popularity of Lean and Agile Among Startups”
-- receive high grades for the following modules: 91% in accounting; 75% in business law;
-78% in entrepreneurship; 70% in project management
+- receive high grades for the following modules: 91% in accounting; 75% in business law; 78% in entrepreneurship; 70% in project management
 - balance full-time job, full-time study and actively participate in the society’s committee
 
 # WordPress Developer
