@@ -31,7 +31,7 @@
 - create formal structure for weekly sessions and allocate (delegate) other committee members to their respective roles
 - hold monthly committee meetings to reflect upon performance and provide feedback for future sessions
 
-# Group Leader (#2)
+# Group Leader
 
 - lead (remotely) self-assembled team of four WordPress freelancers
 - break down client requirements into technical assignments and allocate work to appropriate individual
@@ -57,7 +57,7 @@
 - resolve assigned support tickets
 - address (occasionally) issues with Windows Servers and troubleshoot VPN connection between Cisco ASA 5505 endpoints
 
-# Group Leader (#1)
+# Group Leader
 
 - lead (remotely) a team of three technology enthusiasts
 - experiment with web-based technology pre-HTML5 era
