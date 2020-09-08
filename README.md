@@ -36,19 +36,6 @@
 - conflict resolution among colleagues and other department’s staff
 - create comprehensive infrastructure documentation from scratch of 5 geo-remote offices
 
-## Stirling Public Speaking Society
-
-<div class='textbox'>
-    <p>Vice-president and Treasurer</p>
-    <p>Sep 2016 - Jun 2018</p>
-    <div></div>
-</div>
-
-- hold roles of vice-president and treasurer (different academic years)
-- responsible for budgeting extracurricular events
-- create formal structure for weekly sessions and allocate (delegate) other committee members to their respective roles
-- hold monthly committee meetings to reflect upon performance and provide feedback for future sessions
-
 ## Group Leader
 
 <div class='textbox'>
@@ -62,6 +49,19 @@
 - assist with technical issues if any of the freelancers get stuck with their assignment
 - track progress and coordinate work to make sure client’s deadline will be met
 - handle billing and payroll
+
+## Stirling Public Speaking Society
+
+<div class='textbox'>
+    <p>Vice-president and Treasurer</p>
+    <p>Sep 2016 - Jun 2018</p>
+    <div></div>
+</div>
+
+- hold roles of vice-president and treasurer (different academic years)
+- responsible for budgeting extracurricular events
+- create formal structure for weekly sessions and allocate (delegate) other committee members to their respective roles
+- hold monthly committee meetings to reflect upon performance and provide feedback for future sessions
 
 ## University of Stirling
 
@@ -86,6 +86,18 @@
 - create private “Status Page” plugin to read Nagios (SQL) output and create meaningful user-friendly output (status page)
 - support existing WordPress plugin “FeedSyndicate” which grabs RSS feed and creates posts from that on a regular basis (schedule) with user configurable settings
 
+## Group Leader
+
+<div class='textbox'>
+    <p>Group of Three Technology Enthusiasts</p>
+    <p>Oct 2011 - Dec 2013</p>
+    <div></div>
+</div>
+
+- lead (remotely) a team of three technology enthusiasts
+- experiment with web-based technology pre-HTML5 era
+- experiment with various software including Atlassian Confluence and Jira, LucidChart
+
 ## Junior System Administrator
 
 <div class='textbox'>
@@ -98,15 +110,3 @@
 - provide front desk support including technical issue resolution and staff training
 - resolve assigned support tickets
 - address (occasionally) issues with Windows Servers and troubleshoot VPN connection between Cisco ASA 5505 endpoints
-
-## Group Leader
-
-<div class='textbox'>
-    <p>Group of Three Technology Enthusiasts</p>
-    <p>Oct 2011 - Dec 2013</p>
-    <div></div>
-</div>
-
-- lead (remotely) a team of three technology enthusiasts
-- experiment with web-based technology pre-HTML5 era
-- experiment with various software including Atlassian Confluence and Jira, LucidChart
