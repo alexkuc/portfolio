@@ -7,10 +7,22 @@
 1. TOC
 {:toc}
 
-## Web Application Prototype
+## Wordpress Developer
 
 <div class='textbox'>
-    <p>Personal Covid-19 Web Application</p>
+    <p>Freelance</p>
+    <p>Nov 2020 - Current</p>
+    <div></div>
+</div>
+
+- development of unique solutions for clients not available as off-the-shelf software
+- 3rd party services integration by means of API or custom code
+- comprehensive test suites using TDD style including unit, integration, functional and acceptance tests
+
+## Frontend Development Training
+
+<div class='textbox'>
+    <p>Personal Projects</p>
     <p>Feb 2020 - Jul 2020</p>
     <div></div>
 </div>
