@@ -27,9 +27,10 @@
     <div></div>
 </div>
 
-- prototype web application to apply for Covid-19 grant
-- application was accepted and got through the first filtering stage
-- prototype consists of UI mockups and semi-completed interactive demo using Zurb Foundation framework and webpack
+- practice ES6 and NodeJS skills including TypeScript and Yarn 2 PnP
+- complete a number of exercises on freeCodeCamp
+- practice with Javascript tooling such as webpack, grant, gulp and custom npm scripts
+- try Zurb Foundation, Framework 7 and Jest frameworks
 
 ## IT Team Leader
 
@@ -48,24 +49,24 @@
 - conflict resolution among colleagues and other department’s staff
 - create comprehensive infrastructure documentation from scratch of 5 geo-remote offices
 
-## Group Leader
+## Wordpress Mentor
 
 <div class='textbox'>
-    <p>Self-Assembled Team of Four Freelancers</p>
+    <p>Group of Wordpress Developers</p>
     <p>Nov 2016 - Aug 2017</p>
     <div></div>
 </div>
 
 - lead (remotely) self-assembled team of four WordPress freelancers
-- break down client requirements into technical assignments and allocate work to appropriate individual
-- assist with technical issues if any of the freelancers get stuck with their assignment
-- track progress and coordinate work to make sure client’s deadline will be met
-- handle billing and payroll
+- help gain necessary web development skills as a part of training sessions
+- explain Wordpress eco system and differentiate between good and bad practices
+- assist with the necessary tooling as a part of development process
+- explain how to handle first clients and how to break user requirements into technical assignments
 
 ## Stirling Public Speaking Society
 
 <div class='textbox'>
-    <p>Vice-president and Treasurer</p>
+    <p>Vice-President and Treasurer</p>
     <p>Sep 2016 - Jun 2018</p>
     <div></div>
 </div>
@@ -98,7 +99,7 @@
 - create private “Status Page” plugin to read Nagios (SQL) output and create meaningful user-friendly output (status page)
 - support existing WordPress plugin “FeedSyndicate” which grabs RSS feed and creates posts from that on a regular basis (schedule) with user configurable settings
 
-## Group Leader
+## Informal Group Leader
 
 <div class='textbox'>
     <p>Group of Three Technology Enthusiasts</p>
