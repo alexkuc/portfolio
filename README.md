@@ -99,18 +99,6 @@
 - create private “Status Page” plugin to read Nagios (SQL) output and create meaningful user-friendly output (status page)
 - support existing WordPress plugin “FeedSyndicate” which grabs RSS feed and creates posts from that on a regular basis (schedule) with user configurable settings
 
-## Informal Group Leader
-
-<div class='textbox'>
-    <p>Group of Three Technology Enthusiasts</p>
-    <p>Oct 2011 - Dec 2013</p>
-    <div></div>
-</div>
-
-- lead (remotely) a team of three technology enthusiasts
-- experiment with web-based technology pre-HTML5 era
-- experiment with various software including Atlassian Confluence and Jira, LucidChart
-
 ## Junior System Administrator
 
 <div class='textbox'>
