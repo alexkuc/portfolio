@@ -16,7 +16,7 @@ body {
     font-style: italic;
 }
 
-.textbox p:nth-child(1), .textbox p:nth-child(2) {
+.textbox p {
     line-height: 0;
 }
 
@@ -26,6 +26,11 @@ body {
 
 .textbox p:nth-child(2) {
     float: right;
+}
+
+.textbox p:nth-child(3) {
+    float: left;
+    clear: both;
 }
 
 .textbox div {

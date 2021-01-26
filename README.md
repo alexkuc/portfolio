@@ -12,6 +12,7 @@
 <div class='textbox'>
     <p>Freelance</p>
     <p>Nov 2020 - Current</p>
+    <p>Limassol, Cyprus</p>
     <div></div>
 </div>
 
@@ -24,6 +25,7 @@
 <div class='textbox'>
     <p>Personal Projects</p>
     <p>Feb 2020 - Jul 2020</p>
+    <p>Limassol, Cyprus</p>
     <div></div>
 </div>
 
@@ -37,6 +39,7 @@
 <div class='textbox'>
     <p>Eltoma Corporate Services</p>
     <p>Jan 2018 - Jan 2020</p>
+    <p>Stirling, Scotland, United Kingdom</p>
     <div></div>
 </div>
 
@@ -54,6 +57,7 @@
 <div class='textbox'>
     <p>Group of Wordpress Developers</p>
     <p>Nov 2016 - Aug 2017</p>
+    <p>Stirling, Scotland, United Kingdom</p>
     <div></div>
 </div>
 
@@ -68,6 +72,7 @@
 <div class='textbox'>
     <p>Vice-President and Treasurer</p>
     <p>Sep 2016 - Jun 2018</p>
+    <p>Stirling, Scotland, United Kingdom</p>
     <div></div>
 </div>
 
@@ -81,6 +86,7 @@
 <div class='textbox'>
     <p>BA with Hons. Business Studies and HR Management</p>
     <p>Sep 2015 - Jun 2019</p>
+    <p>Stirling, Scotland, United Kingdom</p>
     <div></div>
 </div>
 
@@ -93,6 +99,7 @@
 <div class='textbox'>
     <p>FeedSyndicate</p>
     <p>Nov 2014 - Nov 2016</p>
+    <p>Limassol, Cyprus</p>
     <div></div>
 </div>
 
@@ -104,6 +111,7 @@
 <div class='textbox'>
     <p>Eltoma Corporate Services</p>
     <p>Jun 2011 - Dec 2013</p>
+    <p>Limassol, Cyprus</p>
     <div></div>
 </div>
 
